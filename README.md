@@ -46,8 +46,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xiaohei2122&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohei2122&layout=compact&theme=radical&hide_border=true&count_private=true" height="165" alt="Top languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=xiaohei2122&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=xiaohei2122&layout=compact&theme=radical&hide_border=true&count_private=true" height="165" alt="Top languages" />
 
 <br/>
 
